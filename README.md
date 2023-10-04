@@ -42,24 +42,3 @@ npm run dev
 npm run lint
 ```
 
-# Contributing
-
-Thank you for considering contributing to Befake! We are grateful for your interest in helping to improve the project and make it even better.
-
-There are many ways that you can contribute to the project, including but not limited to:
-
-- Reporting bugs and submitting feature requests
-- Submitting pull requests for bug fixes and new features
-
-Before you start contributing, please take a moment to read through the following guidelines:
-
-- Familiarize yourself with the project and its goals.
-- Check the existing issues to see if your bug or feature request has already been reported. If it has, please add your thoughts to the existing issue.
-- Follow the project's code style and conventions.
-- Test your changes thoroughly before submitting a pull request.
-- Make sure your pull request targets the correct branch (usually master).
-- Thank you for your contributions! Every bug report, feature request, and code change helps make befake better for everyone.
-
-# Donations
-
-This project is free and open source. If you would like to support the development of this project, you can donate to the project [here](https://ko-fi.com/rahulvaidun)
